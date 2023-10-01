@@ -9,3 +9,7 @@ heres a ss tutorial
 <img width="1440" alt="Screen Shot 2023-09-30 at 9 15 46 PM" src="https://github.com/EloniX-X/Simple-Speed-Read-Chrome-Extension/assets/62807180/7af18bd4-1a42-4fda-82c2-9513c4791fd7">
 
 thank you <3
+UPDATE!
+![image](https://github.com/EloniX-X/Simple-Speed-Read-Chrome-Extension/assets/62807180/9fb1613b-0595-4719-aa98-6c7ee078c6d0)
+
+its pending review
