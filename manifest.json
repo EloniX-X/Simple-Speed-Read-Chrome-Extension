@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Speed reader",
+    "description": "This is a very simple extension that shows text selected and plays a noise so that you read a lot faster.",
+    "version": "1.0",
+    "permissions": ["contextMenus", "storage"],
+    "host_permissions": [
+        "<all_urls>" 
+    ],
+    "action": {
+        "default_icon": {
+            "16": "hi.png",
+            "24": "hi.png",
+            "32": "hi.png"
+        },
+        "default_title": "Click Me",
+        "default_popup": "hello.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+}
