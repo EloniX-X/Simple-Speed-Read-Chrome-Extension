@@ -3,7 +3,8 @@
 EVEYONE IT GOT ACCEPTED LETS GOO ~!!!
 https://chrome.google.com/webstore/detail/speed-reader/iobocjknlpnmcakiiodjapggnefeepfj?hl=en
 
-
+ITS GOT ACCEPTED
+https://chromewebstore.google.com/detail/elonis-email-organizer/gfeoieaglpjmkccggncpmennjomjejeg
 
 This is gonna be part of my project ELN to make a bunch of tools I can use in school. What I did for this project was I wanted to shift away from using python so for this I just made a simple javascript html css type extension in chrome. from this project I learned a lot of things but specifically javascript which I will have to practice a lot more. Javascript is a priority for me to learn as I shift to fullstack development.
 
